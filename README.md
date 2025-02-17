@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://park.jamong.one](https://park.jamong.one)
 
-- ⚡ Fun fact **I'm Have been to Keris Building**
+- ⚡ Fun fact **I've been to Keris Building**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
