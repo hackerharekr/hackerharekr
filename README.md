@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hare</h1>
-<h3 align="center">A passionate white hacker from Korea, Republic Of</h3>
+<h3 align="center">A passionate white hacker from Korea, Republic of</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hackerharekr&label=Profile%20views&color=0e75b6&style=flat" alt="hackerharekr" /> </p>
 
